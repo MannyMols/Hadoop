@@ -1,11 +1,11 @@
 # Big Data Analysis — Climate Change & Sustainable Living
 
 > **Module:** COM745 — Big Data | Ulster University  
-> **Author:** Emmanuel Mologe (B00911179)
+> **Author:** Emmanuel Mologe
 
 ## Overview
 
-This project analyses four global datasets to understand the current state of climate change and attitudes towards sustainable living. Using a full Hadoop Big Data pipeline — HDFS, Hive, PySpark, and Zeppelin — the study examines trends in EV adoption, CO2 emissions, forest cover, and temperature change across multiple countries (2011–2018).
+This project analyses four global datasets to understand the current state of climate change and attitudes towards sustainable living. Using a full Hadoop Big Data pipeline — HDFS, Hive, PySpark, and Zeppelin — the study examines trends in EV adoption, CO2 emissions, forest cover, and temperature change across multiple countries.
 
 ---
 
